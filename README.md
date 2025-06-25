@@ -1,5 +1,5 @@
 # 💫 Hello I'm Hardik Raut:
-🎓 Computer Science Engineering {Data Science} Student  <br>📘 Learning Python, Data Analysis, and Machine Learning  <br>🛠️ Building projects and improving daily  <br>📬 Open to internships and entry-level opportunities<br>
+🎓 Computer Science Engineering [Data Science] Student  <br>📘 Learning Python, Data Analysis, and Machine Learning  <br>🛠️ Building projects and improving daily  <br>📬 Open to internships and entry-level opportunities<br>
 
 
 ## 🌐 Socials:
