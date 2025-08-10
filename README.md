@@ -4,9 +4,6 @@
 
 ###
 
-<h4 align="center">About Me: <br>🎓 CSE Graduate passionate about Machine Learning & Data Science<br>🚀 Designing AI-driven systems for solving real-world problems<br>⚡ Motto: "Code it. Train it. Deploy it. Make it count."</h4>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
