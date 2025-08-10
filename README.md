@@ -98,9 +98,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="pacman.yml">
-  <source media="(prefers-color-scheme: light)" srcset="pacman.yml">
-  <img alt="pacman contribution graph" src="pacman.yml">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hardikkkraut/hardikkkraut/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hardikkkraut/hardikkkraut/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hardikkkraut/hardikkkraut/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
