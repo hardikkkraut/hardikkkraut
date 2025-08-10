@@ -27,6 +27,18 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="45" alt="tensorflow logo"  />
   <img width="12" />
+  <!-- New Skills -->
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="45" alt="streamlit logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="45" alt="keras logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" alt="matplotlib logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/scipy/8CAAE6" height="45" alt="scipy logo" />
+  <img width="12" />
+  <!-- Continue existing -->
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="45" alt="anaconda logo"  />
@@ -62,6 +74,7 @@
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="45" alt="discord logo"  />
 </div>
 
+
 ###
 
 <div align="center">
@@ -85,9 +98,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hardikkkraut/hardikkkraut/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hardikkkraut/hardikkkraut/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hardikkkraut/hardikkkraut/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="pacman.yml">
+  <source media="(prefers-color-scheme: light)" srcset="pacman.yml">
+  <img alt="pacman contribution graph" src="pacman.yml">
 </picture>
 
 ###
